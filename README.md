@@ -8,13 +8,27 @@ As you start planning your composition, consider: What ideas do *you* want help 
 
 ## Generative constraints
 
-We can revisit these after we get into the midst of composing, but to get you started:
+**Baseline criteria**
+For a minimum grade of B, all projects for this unit must:
 
-* Include at least two images from separate sources.
-* Include at least one word, with a carefully chosen font.
-* Include at least one image or photograph produced (e.g. taken or drawn) by you. <!-- cut this? -->
 * Use arrangement, size, color, visual rhythm, and/or contrast to focus viewers' attention.
+* Include at least one word, with a carefully chosen font, as explained in reflection.
+* Have a clear message or intervention
+* Incorporate juxtaposition
+* Use at least 3 layers
+* Use at least 2 GIMP tools, and write about them in the reflection
 * Aim for surprise or metaphorical leap in the elements you bring together.
+* Argue in reflection why you did what you did
+
+**Aspirational inspirations**
+To target (but not guarantee) a grade above a B, the best projects for this unit may...
+
+* Use Github repository with meaningful commit messages
+* Incorporate conceptual contrast/changes - (i.e. two separate ideas combined into the image like including at least two images from separate sources)
+* Try (and reflect on) ≥ 2 new-to-you GIMP tools/effects
+* Guide eye through a flow
+* Use negative space actively
+
 
 ## Deadlines and products
 At each stage, unless otherwise specified, upload (push) your materials to your own copy of this assignment repository. I recommend that you **save often, using meaningful commit messages**; for best results, please keep your filenames clear, lowercase, and space-free (use hyphens or underscores).
